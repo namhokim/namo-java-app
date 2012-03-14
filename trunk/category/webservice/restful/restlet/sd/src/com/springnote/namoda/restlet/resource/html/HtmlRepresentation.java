@@ -15,7 +15,7 @@ public class HtmlRepresentation {
 		htmlResource = new HashMap<String, Representation>();
 		String basicPath = HtmlRepresentation.class.getResource(
 				"/com/springnote/namoda/restlet/resource/html/").getPath();
-		// initizlize item
+		// initialize item
 		htmlResource.put(DEFAULT_HTML, new FileRepresentation(basicPath+"index.html", MediaType.TEXT_HTML));
 	}
 
