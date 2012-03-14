@@ -9,7 +9,8 @@ Restlet
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+프로젝트 생성(Dynamic Web Proeject):
+  * Proejct name : sd
+  * Target runtime: Apache Tomcat v6.0
+  * Dynamic web module version : 2.5
+  * Configuration : Default Configuration for Apache Tomcat v6.0
